@@ -12,6 +12,11 @@ Hackintosh EFI
 You Must
 - ⚠️ Disable Secure Boot
 
+Tested On
+- MacOS Ventura 13.5
+- MacOS Sonoma Beta 4
+
+
 ### My System ✨
 | Name  | Type |
 | ------------- | ------------- |
