@@ -3,7 +3,7 @@ Hackintosh EFI
 
 ### How to Make Bootable
 1. Generate your SerialNumber, MLB, UUIDm and ROM in `PI > Generic`
-   - **You can change with https://github.com/ic005k/OCAuxiliaryTools **
+   - You can change with https://github.com/ic005k/OCAuxiliaryTools
 3. Download MacOS.RAW on https://www.olarila.com/files/?dir=Torrents
 4. Make Bootable EFI with BalenaEtcher
 5. After Finish, Use MiniTool Partition Wizard to show EFI Disk
